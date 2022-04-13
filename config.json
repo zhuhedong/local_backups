@@ -1,0 +1,18 @@
+{
+  "clientConfig": {
+    "serverIp": "127.0.0.1",
+    "serverPort": 800,
+    "clientTiming": {
+      "enabled": false,
+      "cron": "*/1 * * * *",
+      "localPaths": [
+        "/Users/hedongzhu/OpenSource/"
+      ]
+    }
+  },
+  "serverConfig": {
+    "port": 800,
+    "address": "0.0.0.0",
+    "storeDir": "/Users/hedongzhu/upload_test/"
+  }
+}
